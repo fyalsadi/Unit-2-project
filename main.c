@@ -132,7 +132,6 @@ void print_main_menu(void)
 {
     printf("\n---------- Engineering Waveform & Maths Tool ----------\n");
     printf("\t1.  Enter waveform samples manually\n");
-    // 2 removed
     printf("\t3.  Show basic info (min, max, peak-to-peak)\n");
     printf("\t4.  Calculate DC offset and RMS\n");
     printf("\t5.  Calculate crest factor (peak / RMS)\n");
@@ -141,7 +140,6 @@ void print_main_menu(void)
     printf("\t8.  Classify signal type\n");
     printf("\t9.  Smooth waveform (moving average)\n");
     printf("\t10. Detect peaks\n");
-    // 11 removed
     printf("\t12. Generate test signal (sine wave)\n");
     printf("\t13. Basic calculator\n");
     printf("\t14. Ohm's law calculator (V = I * R)\n");
